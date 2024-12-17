@@ -5,5 +5,9 @@ seaborn
 scikit-learn
 xgboost
 catboost
+imblearn
+miceforest
+kneed
+prettytable
 
 -e . #editable mode 
