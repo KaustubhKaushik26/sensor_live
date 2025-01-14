@@ -9,5 +9,6 @@ imblearn
 miceforest
 kneed
 prettytable
+python-dotenv
 
 -e . #editable mode 
