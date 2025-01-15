@@ -19,7 +19,7 @@ if __name__=="__main__":
     collection_name="sensor"
     dump_csv_file_to_mongodb_collection(file_path, database_name, collection_name)
 
-
+    
 
     # try:
     #     test_exception()
